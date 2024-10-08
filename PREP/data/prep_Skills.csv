@@ -1,0 +1,183 @@
+skill_id,skill_name
+1,Python
+2,Java
+3,C++
+4,JavaScript
+5,HTML/CSS
+6,SQL
+7,Git
+8,Software Testing
+9,Agile Methodologies
+10,RESTful APIs
+11,Microservices
+12,DevOps Tools Docker Kubernetes
+13,Cloud Computing AWS Azure
+14,Data Structures and Algorithms
+15,System Design
+16,Mobile Development iOS Android
+17,Front-end Frameworks React Angular
+18,Back-end Frameworks Node.js Spring
+19,Version Control Systems
+20,Continuous Integration Continuous Deployment CI/CD
+21,Product Roadmapping
+22,User Research
+23,A/B Testing
+24,Requirements Gathering
+25,Stakeholder Management
+26,Market Research
+27,KPI Analysis
+28,User Story Mapping
+29,Competitive Analysis
+30,Product Lifecycle Management
+31,Prioritization Frameworks
+32,Design Thinking
+33,Agile/Scrum Training
+34,Business Case Development
+35,Customer Journey Mapping
+36,Technical Understanding
+37,Feature Definition
+38,Risk Management
+39,Metrics Tracking
+40,Test Planning
+41,Manual Testing
+42,Automated Testing Selenium TestNG
+43,Performance Testing
+44,Regression Testing
+45,Bug Tracking Tools JIRA Bugzilla
+46,Continuous Integration CI
+47,Test Case Design
+48,Quality Standards ISO CMMI
+49,Network Configuration
+50,System Administration Windows/Linux
+51,Cybersecurity Practices
+52,Cloud Services Management AWS Azure
+53,Virtualization VMware Hyper-V
+54,ITIL Framework
+55,Database Management
+56,IT Support/Help Desk
+57,Software Installation and Configuration
+58,Hardware Troubleshooting
+59,Endpoint Security
+60,Backup and Recovery Solutions
+61,IT Compliance Standards
+62,Incident Response
+63,Python for Data Analysis
+64,R Programming
+65,Machine Learning Algorithms
+66,Data Visualization Tableau Power BI
+67,Statistical Analysis
+68,Data Wrangling
+69,Big Data Technologies Hadoop Spark
+70,Predictive Modeling
+71,Natural Language Processing NLP
+72,Data Mining Techniques
+73,Continuous Integration Continuous Deployment CI/CD
+74,Infrastructure as Code Terraform Ansible
+75,Cloud Computing AWS Azure
+76,Containerization Docker Kubernetes
+77,Monitoring and Logging Tools Prometheus Grafana
+78,Scripting Bash Python
+79,Version Control Git
+80,Networking Concepts
+81,Configuration Management
+82,Agile Practices
+83,Security Practices in DevOps
+84,Release Management
+85,Incident Management
+86,Automation Tools
+87,Load Balancing
+88,Microservices Architecture
+89,Database Management
+90,Network Security
+91,Risk Assessment
+92,Incident Response
+93,Ethical Hacking
+94,Penetration Testing
+95,Security Information and Event Management SIEM
+96,Malware Analysis
+97,Vulnerability Assessment
+98,Encryption Technologies
+99,Firewalls and Intrusion Detection Systems
+100,Security Policies and Procedures
+101,Compliance Standards GDPR HIPAA
+102,Data Loss Prevention
+103,Identity and Access Management IAM
+104,Security Auditing
+105,Threat Intelligence
+106,User Research
+107,Prototyping
+108,Usability Testing
+109,Interaction Design
+110,Visual Design Principles
+111,Design Software Sketch Figma Adobe XD
+112,Responsive Design
+113,User Personas
+114,User Journey Mapping
+115,Information Architecture
+116,Accessibility Standards WCAG
+117,Design Systems
+118,Sales Techniques
+119,Negotiation Skills
+120,Lead Generation
+121,Customer Relationship Management CRM
+122,Market Analysis
+123,Sales Funnel Management
+124,Sales Presentations
+125,Closing Techniques
+126,Cold Calling
+127,Customer Engagement
+128,Product Knowledge
+129,Sales Forecasting
+130,Email Marketing
+131,SEO
+132,Content Marketing
+133,Social Media Management
+134,Campaign Management
+135,Data Analysis
+136,Market Research
+137,Brand Management
+138,Copywriting
+139,Email Campaigns
+140,Digital Strategy
+141,Customer Support
+142,Technical Support
+143,Problem-Solving
+144,Communication Skills
+145,Conflict Resolution
+146,Service Level Agreements
+147,Help Desk Software
+148,Customer Feedback
+149,Call Center Operations
+150,User Training
+151,Onboarding Processes
+152,Job Analysis
+153,Recruitment Strategies
+154,Performance Management
+155,Employee Relations
+156,Training and Development
+157,HR Policies
+158,Compensation and Benefits
+159,Diversity and Inclusion
+160,Employee Engagement
+161,Compliance with Labor Laws
+162,Workforce Planning
+163,Budgeting
+164,Financial Reporting
+165,Tax Compliance
+166,Budget Analysis
+167,Accounting Principles
+168,Investment Strategies
+169,Risk Management
+170,Financial Modeling
+171,Audit Processes
+172,Regulatory Compliance
+173,Data Analysis
+174,Legal Research
+175,Contract Management
+176,Compliance Standards
+177,Litigation Support
+178,Legal Writing
+179,Client Communication
+180,Dispute Resolution
+181,Intellectual Property Law
+182,Employment Law
