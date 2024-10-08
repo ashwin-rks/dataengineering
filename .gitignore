@@ -1,0 +1,5 @@
+# dependenies
+venv/
+
+# Secrets
+.env
